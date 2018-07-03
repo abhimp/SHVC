@@ -1,0 +1,15 @@
+objects/SyntaxElementWriter.d.o: \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.cpp \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.h \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.cpp :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.h :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h :

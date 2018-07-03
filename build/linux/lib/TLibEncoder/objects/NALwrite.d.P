@@ -1,0 +1,15 @@
+objects/NALwrite.d.o: \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :

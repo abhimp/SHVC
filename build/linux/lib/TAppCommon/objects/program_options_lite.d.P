@@ -1,0 +1,5 @@
+objects/program_options_lite.d.o: \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.cpp \
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.h
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.cpp :
+ /media/abhijit/Code/svc-chain/trunk/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.h :
